@@ -1,5 +1,5 @@
 # minhook-iat-hooking-example
- Simplistic IAT hooking example for MinHook library
+ Simplistic IAT hooking example (code sample) for MinHook library
 
 ## What is IAT hooking, what is it do?
  Let's say, you want to hijack an API call of a program. IAT hooking could be the best solution for you.
